@@ -1,0 +1,6 @@
+---
+title: "In-class template"
+author: "Shucan Zhao"
+format: pdf
+---
+
