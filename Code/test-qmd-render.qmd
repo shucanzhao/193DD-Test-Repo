@@ -3,7 +3,7 @@ title: "Test-qmd-render"
 author: "Shucan Zhao"
 format: pdf
 ---
-#11
+
 ## 1. Set up
 ```{r}
 #| label: packages
